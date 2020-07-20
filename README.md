@@ -1,2 +1,2 @@
 # myReact
-写着玩
+concise react
